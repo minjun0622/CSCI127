@@ -1,0 +1,4 @@
+#Name: Minjun Seo
+#Email: minjun.seo58@myhunter.cuny.edu
+
+out = not(in1 and in2)

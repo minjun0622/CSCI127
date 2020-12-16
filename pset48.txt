@@ -1,0 +1,13 @@
+#Name: Minjun Seo
+#Email: minjun.seo58@myhunter.cuny.edu
+
+mkdir programs
+mkdir files
+cd programs
+mkdir python 
+mkdir c++
+cd ..
+cd files
+mkdir pdf
+mkdir csv
+mkdir images

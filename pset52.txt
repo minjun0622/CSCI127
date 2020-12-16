@@ -1,0 +1,4 @@
+#Name: Minjun Seo
+#Email: minjun.seo58@myhunter.cuny.edu
+
+ls -l | grep ".py" | wc -l
